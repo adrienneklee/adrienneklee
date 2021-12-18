@@ -11,7 +11,7 @@ My tech stack includes HTML5, CSS/SCSS, JavaScript (ES6), jQuery, and React, as 
 - 👯 I’m looking to collaborate on something meaningful!  Feel free to reach out to me if you are a community-led org or non-profit and need some support!
 - 📫 How to reach me: adriennelee.dev
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I love to travel and have been to all 7 continents 🐋🦘🐘🦧🦌🐩🦜!
+- ⚡ Fun fact: I love to travel and have been to all 7 continent 🐧🍾🍔🦘🦜🥟🐘!
 
 <!--
 **adrienneklee/adrienneklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
