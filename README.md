@@ -6,8 +6,8 @@ I’m Front End Developer based out of Hamilton, Ontario 🇨🇦 with a backgro
 
 My tech stack includes HTML5, CSS/SCSS, JavaScript (ES6), jQuery, and React, as well as experience with REST APIs, version control (Git) and Firebase.
 
-- 🎬 I’m currently working on a site for a commercial film director.
-- 🛍 I’m currently learning Shopify's API docs.
+- 👩🏻‍💻 I’m currently working as the solo Web Developer for Canada's largest progressive creative agency.
+- 💎 I’m currently learning Ruby on Rails.
 - 👯 I’m looking to collaborate on something meaningful!  Feel free to reach out to me if you are a community-led org or non-profit and need some support!
 - 📫 How to reach me: adriennelee.dev
 - 😄 Pronouns: She/ Her
